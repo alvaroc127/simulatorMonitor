@@ -5,6 +5,9 @@
  */
 package simuladormonitor;
 
+import java.awt.JobAttributes;
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author ELECTRONICA
@@ -16,6 +19,7 @@ public class SimuladorMonitor {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "HOla");
     }
     
 }
